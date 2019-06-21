@@ -1,0 +1,5 @@
+﻿  PlayScreen.cpp
+d:\fundamentos\lvaldivia\fundamentos201901\proyectos\papuengine\playscreen.h(27): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+d:\fundamentos\lvaldivia\fundamentos201901\proyectos\papuengine\playscreen.cpp(148): warning C4101: 'buffer': variable local sin referencia
+  PapuEngine.vcxproj -> D:\Fundamentos\LVALDIVIA\fundamentos201901\Proyectos\Debug\PapuEngine.exe
+  PapuEngine.vcxproj -> D:\Fundamentos\LVALDIVIA\fundamentos201901\Proyectos\Debug\PapuEngine.pdb (Partial PDB)
